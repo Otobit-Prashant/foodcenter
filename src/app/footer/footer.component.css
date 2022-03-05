@@ -1,0 +1,35 @@
+.footerRow{
+    position: fixed;
+    bottom: 0px;
+}
+.plusIcon{
+    position: relative;
+    bottom: 46px;
+    right: 10px;
+    
+}
+.NavBar{
+    background-color: #7384B3;
+    padding-top: 10px;
+    height: 71px;
+    border-radius: 8px 8px 0px 0px;
+}
+/* .navFonts{
+    position: relative;
+    font-family: Bebas;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: aliceblue;
+    padding-left: 13px;
+    
+}
+
+.svgcenter{
+    padding-left: 15px;
+} */
+
+.col-6{
+    
+    padding-left: 25px;
+}
